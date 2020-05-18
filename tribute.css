@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+#main {
+  background-color: rgb(126, 215, 226);
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+#image {
+  margin: 10px auto 20px;
+  display: block;
+}
